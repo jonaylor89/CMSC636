@@ -1,0 +1,51 @@
+ite= 0 p= 0 net= 0 err= 0 lrn= 0.0
+weights: 1 1 1
+ite= 0 p= 1 net= 1.0 err= -1 lrn= -0.6
+weights: 1.0 1.0 1.0
+ite= 0 p= 2 net= 1.0 err= -1 lrn= -0.6
+weights: 1.0 1.0 0.4
+ite= 0 p= 3 net= 0.8 err= -1 lrn= -0.6
+weights: 1.0 0.4 0.4
+ite= 0 p= 4 net= 1.0 err= -1 lrn= -0.6
+weights: 1.0 -0.2 -0.2
+ite= 0 p= 5 net= 0.2 err= 1 lrn= 0.6
+weights: 0.4 -0.2 -0.2
+ite= 0 p= 6 net= 0.8 err= -1 lrn= -0.6
+weights: 1.0 -0.2 0.4
+ite= 0 p= 7 net= 0.0 err= 1 lrn= 0.6
+weights: 0.4 -0.8 0.4
+TE= 7
+ite= 1 p= 0 net= 0.0 err= 0 lrn= 0.0
+weights: 1.0 -0.2 1.0
+ite= 1 p= 1 net= 1.0 err= -1 lrn= -0.6
+weights: 1.0 -0.2 1.0
+ite= 1 p= 2 net= -0.2 err= 0 lrn= 0.0
+weights: 1.0 -0.2 0.4
+ite= 1 p= 3 net= 0.2 err= 0 lrn= 0.0
+weights: 1.0 -0.2 0.4
+ite= 1 p= 4 net= 1.0 err= -1 lrn= -0.6
+weights: 1.0 -0.2 0.4
+ite= 1 p= 5 net= 0.8 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 1 p= 6 net= 0.2 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 1 p= 7 net= 0.6 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+TE= 2
+ite= 2 p= 0 net= 0.0 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 1 net= 0.4 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 2 net= -0.2 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 3 net= 0.2 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 4 net= 0.4 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 5 net= 0.8 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 6 net= 0.2 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+ite= 2 p= 7 net= 0.6 err= 0 lrn= 0.0
+weights: 0.4 -0.2 0.4
+TE= 0

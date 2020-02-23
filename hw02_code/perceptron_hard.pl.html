@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!-- saved from url=(0167)file:///Users/miskom/Documents/D.disk/b.kurcevi/S16%20-%20DNN%20(CMSC%20591)/hw&exams/z...NND-S14,%20brisi%20posle/z...husky/mat/downloads/perl/perceptron_hard_pl.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>perceptron_hard.pl</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<pre><font color="#444444">#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Contains: Perceptron Learning Rule with Hard Threshold
+# Name: perceptron_hard.pl
+# Course Instructor: Milos Manic
+# Provided by: Course Instructor
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+</font><font color="a52a2a"><strong>open</strong></font> <font color="4444FF"><strong>(</strong></font>OUTF,<font color="#008000">'&gt;out_perc_hard.txt'</font><font color="4444FF"><strong>)</strong></font> || <strong>die</strong>;  <font color="#444444"># opening a new file out.txt for writing
+</font><font color="#2040a0">$ite</font>=100;  			<font color="#444444"># number of training cycles
+</font><font color="#2040a0">$np</font>=2; 				<font color="#444444"># number of patterns
+</font><font color="#2040a0">$ni</font>=3; 				<font color="#444444"># number of augmented inputs
+</font><font color="#2040a0">$alpha</font>=0.3; 		<font color="#444444"># learning constant
+</font><font color="#2040a0">@ww</font>= <font color="4444FF"><strong>(</strong></font>1, 3, -3<font color="4444FF"><strong>)</strong></font>;  <font color="#444444"># array of weights
+</font><font color="#2040a0">@pat</font>=<font color="4444FF"><strong>(</strong></font><font color="4444FF"><strong>[</strong></font>1, 2, 1<font color="4444FF"><strong>]</strong></font>,<font color="4444FF"><strong>[</strong></font>2, 1, 1<font color="4444FF"><strong>]</strong></font><font color="4444FF"><strong>)</strong></font>; <font color="#444444"># patterns as 2-dim array
+</font><font color="#2040a0">@dout</font>=<font color="4444FF"><strong>(</strong></font>-1, 1<font color="4444FF"><strong>)</strong></font>;      <font color="#444444"># desired output as 1-dim array
+</font><strong>for</strong> <font color="#2040a0">$n</font> <font color="4444FF"><strong>(</strong></font>0..<font color="#2040a0">$ite</font>-1<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font>   		<font color="#444444"># number of training cycles
+	</font><font color="#2040a0">$terr</font>=0;				<font color="#444444"># initialization of total error
+	</font><strong>for</strong> <font color="#2040a0">$p</font> <font color="4444FF"><strong>(</strong></font>0..<font color="#2040a0">$np</font>-1<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font>		<font color="#444444"># for all patterns
+   	</font><font color="#2040a0">$net</font>=0;
+   	<strong>for</strong> <font color="#2040a0">$i</font> <font color="4444FF"><strong>(</strong></font>0..<font color="#2040a0">$ni</font>-1<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font> 	<font color="#444444"># for all inputs
+       	</font><font color="#2040a0">$net</font> = <font color="#2040a0">$net</font> +<font color="#2040a0">$ww</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font>*<font color="#2040a0">$pat</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$p</font><font color="4444FF"><strong>]</strong></font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font>;
+		<font color="4444FF"><strong>}</strong></font>
+		<font color="#2040a0">$ou</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$p</font><font color="4444FF"><strong>]</strong></font> = sign<font color="4444FF"><strong>(</strong></font><font color="#2040a0">$net</font><font color="4444FF"><strong>)</strong></font>; 		<font color="#444444"># use activation function
+		</font><font color="#2040a0">$err</font>=<font color="#2040a0">$dout</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$p</font><font color="4444FF"><strong>]</strong></font>-<font color="#2040a0">$ou</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$p</font><font color="4444FF"><strong>]</strong></font>;    <font color="#444444"># calculating error
+		</font><font color="#2040a0">$terr</font>=<font color="#2040a0">$terr</font>+<font color="#2040a0">$err</font>*<font color="#2040a0">$err</font>;
+		<font color="#2040a0">$learn</font>=<font color="#2040a0">$alpha</font>*<font color="#2040a0">$err</font>;			<font color="#444444"># learning coefficient
+      </font>&amp;printdata<font color="4444FF"><strong>(</strong></font><font color="#2040a0">$n</font>,<font color="#2040a0">$p</font>,<font color="#2040a0">$net</font>,<font color="#2040a0">$err</font>,<font color="#2040a0">$learn</font>,<font color="#2040a0">@ww</font><font color="4444FF"><strong>)</strong></font>; <font color="#444444"># printing data to output file
+		</font><strong>for</strong> <font color="#2040a0">$i</font> <font color="4444FF"><strong>(</strong></font>0..<font color="#2040a0">$ni</font>-1<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font> <font color="#444444"># for all inputs
+        	</font><font color="#2040a0">$ww</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font> = <font color="#2040a0">$ww</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font> + <font color="#2040a0">$learn</font>*<font color="#2040a0">$pat</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$p</font><font color="4444FF"><strong>]</strong></font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font>;  <font color="#444444"># change weights
+		</font><font color="4444FF"><strong>}</strong></font>
+	<font color="4444FF"><strong>}</strong></font>
+	<font color="a52a2a"><strong>printf</strong></font> <font color="#008000">"TE=<font color="#2040a0">%9</font>.6f <font color="#77dd77">\n</font>"</font>, <font color="#2040a0">$terr</font>; <font color="a52a2a"><strong>printf</strong></font> OUTF <font color="#008000">"TE=<font color="#2040a0">%9</font>.6f <font color="#77dd77">\n</font>"</font>, <font color="#2040a0">$terr</font>;
+	<strong>if</strong> <font color="4444FF"><strong>(</strong></font><font color="#2040a0">$terr</font> &lt;0.001<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font><strong>last</strong><font color="4444FF"><strong>}</strong></font> 	<font color="#444444"># exiting iteration loop if error is small
+</font><font color="4444FF"><strong>}</strong></font>
+<font color="a52a2a"><strong>close</strong></font> OUTF; <font color="#444444"># closing the output file
+</font><font color="#2040a0">$ch</font>=&lt;STDIN&gt;; <font color="#444444"># wait for user response
+
+#########  subroutines  ###########
+</font><strong>sub<font color="ff0000"> sign</font>
+{
+	<strong>my</strong> <font color="#2040a0">$x</font> = <font color="a52a2a"><strong>shift</strong></font><font color="4444FF"><strong>(</strong></font><font color="#2040a0">@_</font><font color="4444FF"><strong>)</strong></font>;
+	<strong>my</strong> <font color="#2040a0">$y</font> =0.5;
+	<strong>if</strong> <font color="4444FF"><strong>(</strong></font><font color="#2040a0">$x</font> &gt; 0<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font> <font color="#2040a0">$y</font> = 1;<font color="4444FF"><strong>}</strong></font>
+	<strong>if</strong> <font color="4444FF"><strong>(</strong></font><font color="#2040a0">$x</font> &lt; 0<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font> <font color="#2040a0">$y</font> = -1;<font color="4444FF"><strong>}</strong></font>
+   <strong>return</strong> <font color="#2040a0">$y</font>;
+<font color="4444FF"><strong>}</strong></font>
+
+<strong>sub<font color="ff0000"> printdata</font>
+{
+	<font color="4444FF"><strong>(</strong></font><font color="#2040a0">$n</font>,<font color="#2040a0">$p</font>,<font color="#2040a0">$net</font>,<font color="#2040a0">$err</font>,<font color="#2040a0">$learn</font>,<font color="#2040a0">@ww</font><font color="4444FF"><strong>)</strong></font>=<font color="#2040a0">@_</font>;
+		<font color="a52a2a"><strong>printf</strong></font> <font color="#008000">"ite=<font color="#2040a0">%3</font>d p=<font color="#2040a0">%d</font> net=<font color="#2040a0">%5</font>.2f err =<font color="#2040a0">%6</font>.3f lrn =<font color="#2040a0">%6</font>.3f <font color="#77dd77">\n</font>weights:"</font>,
+		<font color="#2040a0">$n</font>,<font color="#2040a0">$p</font>,<font color="#2040a0">$net</font>,<font color="#2040a0">$err</font>,<font color="#2040a0">$learn</font>;
+		<font color="a52a2a"><strong>printf</strong></font> OUTF <font color="#008000">"ite=<font color="#2040a0">%3</font>d p=<font color="#2040a0">%d</font> net=<font color="#2040a0">%5</font>.2f err =<font color="#2040a0">%6</font>.3f lrn =<font color="#2040a0">%6</font>.3f <font color="#77dd77">\n</font>weights:"</font>,
+		<font color="#2040a0">$n</font>,<font color="#2040a0">$p</font>,<font color="#2040a0">$net</font>,<font color="#2040a0">$err</font>,<font color="#2040a0">$learn</font>;
+		<strong>for</strong> <font color="#2040a0">$i</font> <font color="4444FF"><strong>(</strong></font>0..<font color="#2040a0">$ni</font>-1<font color="4444FF"><strong>)</strong></font> <font color="4444FF"><strong>{</strong></font> <font color="a52a2a"><strong>printf</strong></font> <font color="#008000">"<font color="#2040a0">%6</font>.2f "</font>, <font color="#2040a0">$ww</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font>; <font color="a52a2a"><strong>printf</strong></font> OUTF <font color="#008000">"<font color="#2040a0">%6</font>.2f "</font>, <font color="#2040a0">$ww</font><font color="4444FF"><strong>[</strong></font><font color="#2040a0">$i</font><font color="4444FF"><strong>]</strong></font>; <font color="4444FF"><strong>}</strong></font>
+		<font color="a52a2a"><strong>print</strong></font> <font color="#008000">" <font color="#77dd77">\n</font>"</font>; <font color="a52a2a"><strong>print</strong></font> OUTF <font color="#008000">" <font color="#77dd77">\n</font>"</font>;
+<font color="4444FF"><strong>}</strong></font>
+</strong></strong></pre><strong><strong>
+<!--
+<hr>
+syntax highlighted by <a href="http://www.cosy.sbg.ac.at/~ppalfrad/code2html">Code2HTML</a>, v. 0.8.8b
+-->
+
+
+</strong></strong></body></html>

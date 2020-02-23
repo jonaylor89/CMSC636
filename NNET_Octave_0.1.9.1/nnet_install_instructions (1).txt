@@ -1,0 +1,13 @@
+Install instructions for Octave's neural network toolbox :
+=========================================================
+
+1. Install with Octave >=
+-------------------------------
+a) Open octave 
+b) In octave, install the nnet package by running:
+	pkg install nnet-0.1.9.tar.gz
+c) Depending on the Octave version you have installed, you may get some warnings, you can ignore these warnings.
+d) Before running any script that makes use of the nnet package, you may have to load the nnet package by running in octave:
+	pkg load nnet
+
+

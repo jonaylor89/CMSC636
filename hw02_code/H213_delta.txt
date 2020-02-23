@@ -1,0 +1,1700 @@
+ite= 0 p= 0 net= 0 err= -1 lrn= -0.0
+weights: 1 1 1 1
+ite= 0 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 0 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 1 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 1 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 2 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 2 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 3 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 3 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 4 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 4 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 5 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 5 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 6 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 6 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 7 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 7 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 8 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 8 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 9 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 9 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 10 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 10 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 11 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 11 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 12 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 12 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 13 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 13 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 14 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 14 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 15 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 15 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 16 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 16 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 17 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 17 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 18 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 18 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 19 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 19 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 20 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 20 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 21 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 21 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 22 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 22 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 23 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 23 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 24 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 24 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 25 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 25 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 26 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 26 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 27 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 27 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 28 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 28 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 29 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 29 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 30 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 30 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 31 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 31 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 32 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 32 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 33 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 33 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 34 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 34 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 35 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 35 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 36 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 36 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 37 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 37 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 38 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 38 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 39 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 39 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 40 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 40 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 41 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 41 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 42 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 42 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 43 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 43 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 44 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 44 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 45 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 45 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 46 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 46 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 47 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 47 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 48 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 48 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 49 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 49 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 50 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 50 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 51 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 51 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 52 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 52 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 53 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 53 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 54 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 54 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 55 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 55 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 56 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 56 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 57 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 57 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 58 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 58 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 59 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 59 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 60 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 60 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 61 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 61 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 62 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 62 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 63 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 63 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 64 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 64 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 65 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 65 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 66 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 66 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 67 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 67 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 68 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 68 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 69 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 69 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 70 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 70 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 71 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 71 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 72 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 72 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 73 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 73 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 74 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 74 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 75 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 75 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 76 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 76 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 77 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 77 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 78 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 78 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 79 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 79 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 80 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 80 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 81 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 81 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 82 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 82 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 83 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 83 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 84 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 84 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 85 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 85 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 86 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 86 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 87 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 87 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 88 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 88 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 89 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 89 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 90 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 90 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 91 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 91 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 92 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 92 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 93 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 93 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 94 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 94 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 95 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 95 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 96 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 96 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 97 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 97 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 98 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 98 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
+ite= 99 p= 0 net= 0.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 1 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 2 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 3 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 4 net= 1.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 5 net= 2.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 6 net= 2.0 err= -1 lrn= -0.0
+weights: 1.0 1.0 1.0 1.0
+ite= 99 p= 7 net= 3.0 err= 0 lrn= 0.0
+weights: 1.0 1.0 1.0 1.0
+TE= 6
