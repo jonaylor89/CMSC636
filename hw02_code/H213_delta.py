@@ -11,7 +11,8 @@ import math
 def _tanh(x, bias):
     out = math.tanh(x) + bias
 
-    return 1 if out >= 0.5 else 0
+    print("[DEBUG] out:", out)
+    return 1 if out >= 0 else 0
 
 def print_data(n, p, net, error, learned, weights, bias, writefile):
     print(
@@ -46,7 +47,7 @@ def main():
         iterations = 100  # Number of training cycles
         num_patterns = 8  # Number of patterns
         num_inputs = 3  # Number of augmented inputs
-        alpha = 0.3  # Learning constant
+        alpha = 0.5  # Learning constant
         weights = [1, 1, 1]  # List of weights
         bias = 1
         k = 1
@@ -84,10 +85,10 @@ def main():
                 total_error += error ** 2
 
                 # Delta rule
-                delta = k * (1 - predicted_out[p]**2)
+                delta = k * (1 - predicted_out[p] ** 2)
 
                 # Learning coefficient
-                learned = alpha * error * delta
+                learned = alpha * error + delta
 
                 # Print data to output file & standard out
                 print_data(n, p, net, error, learned, weights, bias, write_file)
